@@ -11,13 +11,13 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/FirstGen/matlabmarginalplant_0.1</module>
-    <module>jobs/process/FirstGen/pen_datawrite_0.1</module>
     <module>jobs/process/FirstGen/marginalplants_0.1</module>
     <module>jobs/process/FirstGen/marketpriceschedule_0.1</module>
     <module>jobs/process/FirstGen/outageschedule_0.1</module>
-    <module>jobs/process/FirstGen/pen_datadump_0.1</module>
-    <module>jobs/process/FirstGen/restapi_0.1</module>
     <module>jobs/process/FirstGen/securitylimit_0.1</module>
+    <module>jobs/process/FirstGen/rubbish/pen_datadump_0.1</module>
+    <module>jobs/process/FirstGen/rubbish/pen_datawrite_0.1</module>
+    <module>jobs/process/FirstGen/rubbish/restapi_0.1</module>
   </modules>
   <properties>
     <talend.project.name>FIRSTGEN_POC</talend.project.name>
