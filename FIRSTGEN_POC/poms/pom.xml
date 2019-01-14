@@ -19,6 +19,7 @@
     <module>jobs/process/FirstGen/rubbish/restapi_0.1</module>
     <module>jobs/process/FirstGen/rubbish/matlabmarginalplant_0.1</module>
     <module>jobs/process/FirstGen/master_marginalplan_0.1</module>
+    <module>jobs/process/FirstGen/master_marketpriceschedule_0.1</module>
   </modules>
   <properties>
     <talend.project.name>FIRSTGEN_POC</talend.project.name>
