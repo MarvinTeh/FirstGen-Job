@@ -72,7 +72,7 @@
     </dependency>
     <dependency>
       <groupId>org.example.firstgen_poc.job</groupId>
-      <artifactId>MarginalPlants</artifactId>
+      <artifactId>SecurityLimit</artifactId>
       <version>0.1.0</version>
     </dependency>
   </dependencies>
