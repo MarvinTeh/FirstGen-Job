@@ -23,6 +23,8 @@
     <module>jobs/process/FirstGen/master_outageschedule_0.1</module>
     <module>jobs/process/FirstGen/master_securitylimit_0.1</module>
     <module>jobs/process/output_0.1</module>
+    <module>jobs/process/FirstGen/POC/FirstGen/create_source_files_0.1</module>
+    <module>jobs/process/FirstGen/POC/FirstGen/load_alfresco_0.1</module>
   </modules>
   <properties>
     <talend.project.name>FIRSTGEN_POC</talend.project.name>
