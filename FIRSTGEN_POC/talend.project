@@ -353,7 +353,6 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_-HjbUBhuEemRFqkXSnbCwg">
       <baseItem xmi:id="_-HjbURhuEemRFqkXSnbCwg" id="_7ACxgBeiEemRcsfh3OzOgQ" version="0.1" type="job"/>
-      <relatedItems xmi:id="_-HjbUhhuEemRFqkXSnbCwg" id="_VMAdMBelEemqd7J8qWzK9w" version="Latest" type="property"/>
       <relatedItems xmi:id="_-HjbUxhuEemRFqkXSnbCwg" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_-HjbVBhuEemRFqkXSnbCwg" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_-HjbVRhuEemRFqkXSnbCwg" id="TalendString" version="Latest" type="routine"/>
@@ -370,12 +369,7 @@
       <relatedItems xmi:id="_-HjbYBhuEemRFqkXSnbCwg" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_-HjbYRhuEemRFqkXSnbCwg" id="MDM" version="Latest" type="routine"/>
       <relatedItems xmi:id="_-HjbYhhuEemRFqkXSnbCwg" id="TalendStringUtil" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_-HjbYxhuEemRFqkXSnbCwg" id="_VMAdMBelEemqd7J8qWzK9w - MARGINALPLANTDATARTD" version="Latest" type="schema"/>
-      <relatedItems xmi:id="_-HjbZBhuEemRFqkXSnbCwg" id="_VMAdMBelEemqd7J8qWzK9w - MARKETPRICESCHEDULERTX" version="Latest" type="schema"/>
-      <relatedItems xmi:id="_-HjbZRhuEemRFqkXSnbCwg" id="_VMAdMBelEemqd7J8qWzK9w - OUTAGESCHEDULE" version="Latest" type="schema"/>
-      <relatedItems xmi:id="_-HjbZhhuEemRFqkXSnbCwg" id="_VMAdMBelEemqd7J8qWzK9w - MARGINALPLANTDATARTX" version="Latest" type="schema"/>
-      <relatedItems xmi:id="_-HjbZxhuEemRFqkXSnbCwg" id="_VMAdMBelEemqd7J8qWzK9w - SECURITYLIMIT" version="Latest" type="schema"/>
-      <relatedItems xmi:id="_-HjbaBhuEemRFqkXSnbCwg" id="_VMAdMBelEemqd7J8qWzK9w - MARKETPRICESCHEDULERTD" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_mbLv0BhyEemRFqkXSnbCwg" id="_5MVnMBSMEembU5w-Ii1U1g" version="Latest" type="context"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_-HjbaRhuEemRFqkXSnbCwg">
       <baseItem xmi:id="_-HjbahhuEemRFqkXSnbCwg" id="_gM52cBezEemqd7J8qWzK9w" version="0.1" type="job"/>
