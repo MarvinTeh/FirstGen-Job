@@ -2,6 +2,9 @@
   <context confirmationNeeded="false" name="Default">
     <contextParameter comment="" name="IP" prompt="IP?" promptNeeded="false" type="id_String" value="18.219.55.49"/>
     <contextParameter comment="" name="nodeID" prompt="nodeID?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="AlfrescoFiles" prompt="AlfrescoFiles?" promptNeeded="false" repositoryContextId="_5MVnMBSMEembU5w-Ii1U1g" type="id_String" value="&quot;C:/Users/Administrator/Desktop/AlfrescoFiles&quot;"/>
+    <contextParameter comment="" name="ArchiveLocation" prompt="ArchiveLocation?" promptNeeded="false" repositoryContextId="_5MVnMBSMEembU5w-Ii1U1g" type="id_String" value="&quot;C:/Users/Administrator/Desktop/First-Gen(Archive)&quot;"/>
+    <contextParameter comment="" name="FilePath" prompt="FilePath?" promptNeeded="false" repositoryContextId="_5MVnMBSMEembU5w-Ii1U1g" type="id_String" value="&quot;C:/Users/Administrator/Desktop/FirstGen-POC(Source)&quot;"/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" show="false" value="0"/>
@@ -59,7 +62,7 @@
     <elementParameter field="CHECK" name="ON_METERCATCHER_FLAG" value="false"/>
     <elementParameter field="CHECK" name="ON_CONSOLE_FLAG" show="false" value="false"/>
     <elementParameter field="CHECK" name="ON_FILES_FLAG" show="false" value="false"/>
-    <elementParameter field="DIRECTORY" name="FILE_PATH" show="false" value="&quot;C:/Users/xxe/workspace/.metadata&quot;"/>
+    <elementParameter field="DIRECTORY" name="FILE_PATH" show="false" value="&quot;C:/Users/Administrator/RemoteWorkspace/.metadata&quot;"/>
     <elementParameter field="TEXT" name="FILENAME_STATS" show="false" value="&quot;stats_file.txt&quot;"/>
     <elementParameter field="TEXT" name="FILENAME_LOGS" show="false" value="&quot;logs_file.txt&quot;"/>
     <elementParameter field="TEXT" name="FILENAME_METTER" show="false" value="&quot;meter_file.txt&quot;"/>
@@ -117,7 +120,7 @@
   </parameters>
   <node componentName="tFileList" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="96" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileList_1"/>
-    <elementParameter field="DIRECTORY" name="DIRECTORY" value="&quot;C:/Users/xxe/Desktop/TOS 7.0&quot;"/>
+    <elementParameter field="DIRECTORY" name="DIRECTORY" value="context.AlfrescoFiles"/>
     <elementParameter field="CLOSED_LIST" name="LIST_MODE" value="DIRECTORIES"/>
     <elementParameter field="CHECK" name="INCLUDSUBDIR" value="false"/>
     <elementParameter field="CLOSED_LIST" name="CASE_SENSITIVE" value="YES"/>
@@ -285,13 +288,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_29de522c-2094-4f6e-8273-60bdb88aa666"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>FJXHxGaOdN2kLAye55JsDab4Sv1MOY1QVfGCBHNnFWSiIcnQbTn+X2kx709EqI2cPAjSVv/S8zJS
-vZdooBDoOg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_4eb5bdd9-727c-4a57-869e-21846e6de27b"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>8s39tPE8PtVuVPZQmpsZk7tFfRV7f8WFcwqdTV7pFADZj9H/mP0lh0mcevNPpDEGvYxrJgyqiEe6
-KEsNukxhRQ==</DigestValue></Reference></SignedInfo><SignatureValue>IV5acd1NxAOadGs7zb5QiX+qM84D/flL/h73TUI40Djta0KF45HWQ1NSDbvlvsQr7UdP35s7mJhD
-Dl7QBb9REG5RxObsKda/KZNwtNFwJiupullRTwZFq0itTZYid6NkpDCeHgjMYfATm8ZG668hUzda
-IzheE+wdJvWm7tdpWPCOUTmQ1SsfQaktWFPusb2nDRJo0Vnasv39MOaS+MPjTp72vowyYA5FWQmh
-7HvF3VILxxQ3kho67nBdIM/3L64n85uMlguraegxcUBo9Hsx4tMOAQ4clFWEMsxowdyUkNQeOqSm
-kH5gqZ3D84xUDyuEl0Xzvxg2/ZyvNwtlPEjV2g==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_a6be4938-ee9d-4358-9ab2-244ab1bdb004"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>+KKRo8ALrP3105MR9/T6y2ho4PDYER2+odxwPV6A6+iPqnPQUxPo4zkxwhFRDJnKpq6yfn0+oDcg
+L9X1gSLxKg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_6021efdb-4dab-48cc-bf6d-f2276e632e35"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>dr5B4NqYM7iTqmfheAIcHk+sTuZdiP1+hvoKusu47INiiYpMX2HkQgEP9+OB2TzwBX0A/FaGYwTV
+Dg1pWVV/Yg==</DigestValue></Reference></SignedInfo><SignatureValue>nVCzgGXDzoPBQT3LD+dVhI1r447RVvlm2QMhFdNTziGNzcFyiBS9Wt3U91OAiaOA/MUgXwHQgvCz
+7l/+FDQMxRNzUH13RS0lBA6do7b4OonHHKaDPj/z7g4xDNosbnUIK7jZ4v8rkOBlMgErMYFiDii3
+qlAOVrsq0pij8efNwHVRpUIyrWvLZpWZg6xJ27Fujdvk/Lw6FtY4ehn94Nu7iTG1D6GeXyqwiyNZ
+37sVCUjLGF6YgiC3ZjgcamshaBlLT2enLfm+QJ+rE02vwUM/wpa+EsWDIWGCy7GXwfKoZ1Gt+979
+b1rU8zOi5x4PeYPx9nZqTm9V534WSlD44ZZTFA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
 BVBhcmlzMQ4wDAYDVQQHDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1Im
 RDEWMBQGA1UEAwwNVGFsZW5kIFImRCBDQTEiMCAGCSqGSIb3DQEJARYTc2VjdXJpdHlAdGFsZW5k
 LmNvbTAeFw0xODAxMTgwMDA2MTJaFw0yMTAxMTcwMDA2MTJaMGwxCzAJBgNVBAYTAkZSMQ4wDAYD
@@ -315,4 +318,4 @@ r3/fbKJ02Ni9kCnkY8wQS1yn45UNl1woSjryza4f4uLKGkrrIsUPXK+Vy4A1Il8XgFfmrtgA8m9s
 EHyu0OyAJH/agWN+GLhF/ssp26oXhiYqTkG4sQtNRFQG0isaYf/JWSt3f8Q+7/pnZpz4mfEAFimI
 BBLzRwDA6x9qqOn0RXxBo9pH16EO3SXPLR64cJum8B/RI/i8H6OkQDO1tEiE6UeceZk++U7fnD3c
 6i9Km85GTgQi6REsVZGIL/tZNIzN//qPwi7cDo3Cf/xmPrIKQhHJaxCqmbjGDmC8AXOaqNfWotVX
-Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_4eb5bdd9-727c-4a57-869e-21846e6de27b" Target="#_29de522c-2094-4f6e-8273-60bdb88aa666"><Timestamp>2019-01-15 02:41:36</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_6021efdb-4dab-48cc-bf6d-f2276e632e35" Target="#_a6be4938-ee9d-4358-9ab2-244ab1bdb004"><Timestamp>2019-01-15 03:07:39</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
