@@ -14,10 +14,6 @@
     <module>jobs/process/FirstGen/marketpriceschedule_0.1</module>
     <module>jobs/process/FirstGen/outageschedule_0.1</module>
     <module>jobs/process/FirstGen/securitylimit_0.1</module>
-    <module>jobs/process/FirstGen/rubbish/pen_datadump_0.1</module>
-    <module>jobs/process/FirstGen/rubbish/pen_datawrite_0.1</module>
-    <module>jobs/process/FirstGen/rubbish/restapi_0.1</module>
-    <module>jobs/process/FirstGen/rubbish/matlabmarginalplant_0.1</module>
     <module>jobs/process/FirstGen/master_marginalplan_0.1</module>
     <module>jobs/process/FirstGen/master_marketpriceschedule_0.1</module>
     <module>jobs/process/FirstGen/master_outageschedule_0.1</module>
@@ -25,6 +21,10 @@
     <module>jobs/process/jasperoutput_0.1</module>
     <module>jobs/process/POC/FirstGen_Alfresco/create_source_files_0.1</module>
     <module>jobs/process/POC/FirstGen_Alfresco/load_alfresco_0.1</module>
+    <module>jobs/process/FirstGen/dev/matlabmarginalplant_0.1</module>
+    <module>jobs/process/FirstGen/dev/pen_datadump_0.1</module>
+    <module>jobs/process/FirstGen/dev/pen_datawrite_0.1</module>
+    <module>jobs/process/FirstGen/dev/restapi_0.1</module>
   </modules>
   <properties>
     <talend.project.name>FIRSTGEN_POC</talend.project.name>
