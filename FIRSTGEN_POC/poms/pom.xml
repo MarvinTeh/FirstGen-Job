@@ -22,6 +22,7 @@
     <module>jobs/process/FirstGen/master_marketpriceschedule_0.1</module>
     <module>jobs/process/FirstGen/master_outageschedule_0.1</module>
     <module>jobs/process/FirstGen/master_securitylimit_0.1</module>
+    <module>jobs/process/output_0.1</module>
   </modules>
   <properties>
     <talend.project.name>FIRSTGEN_POC</talend.project.name>
