@@ -333,7 +333,6 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_RdJzgBhuEemrTv4VxFa1fg">
       <baseItem xmi:id="_RdJzgRhuEemrTv4VxFa1fg" id="_NhZSYBfbEemtjPS-5HYKqw" version="0.1" type="job"/>
-      <relatedItems xmi:id="_RdJzghhuEemrTv4VxFa1fg" id="_EOtAABfQEemtjPS-5HYKqw" version="Latest" type="property"/>
       <relatedItems xmi:id="_RdJzgxhuEemrTv4VxFa1fg" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_RdJzhBhuEemrTv4VxFa1fg" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_RdJzhRhuEemrTv4VxFa1fg" id="TalendString" version="Latest" type="routine"/>

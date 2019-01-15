@@ -47,12 +47,152 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
+      <artifactId>bcprov-jdk16-1.46</artifactId>
+      <version>6.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>bctsp-jdk16-1.46</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>castor-core-1.3.3</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>castor-xml-1.3.3</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>commons-beanutils-1.9.3</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>commons-codec-1.10</artifactId>
+      <version>6.4.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>commons-collections-3.2.2</artifactId>
+      <version>6.2.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>commons-collections4-4.1</artifactId>
+      <version>6.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>commons-digester-2.1</artifactId>
+      <version>6.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>commons-io-1.3.2</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>commons-lang-2.6</artifactId>
+      <version>6.4.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>commons-logging-1.1.1</artifactId>
+      <version>6.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>core-3.2.1</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>curvesapi-1.04</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
       <artifactId>dom4j-1.6.1</artifactId>
       <version>6.0.0</version>
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
+      <artifactId>ecj-4.4.2</artifactId>
+      <version>6.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>groovy-2.4.11</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>icu4j-57.1</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>itext-2.1.7.js3</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>jackson-annotations-2.7.0</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>jackson-core-2.7.5</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>jackson-databind-2.7.5</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
       <artifactId>jakarta-oro-2.0.8</artifactId>
+      <version>6.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>jasperreports-6.4.3</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>jasperreports-fonts-6.0.0</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>jasperreports-functions-6.4.3</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>jcommon-1.0.23</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>jfreechart-1.0.19</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>jlo-talendcomp-jasperreportexec-2.7</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>joda-time-2.9.9</artifactId>
       <version>6.0.0</version>
     </dependency>
     <dependency>
@@ -72,12 +212,57 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
+      <artifactId>pdf-renderer-1.0.5</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>poi-3.16</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>poi-ooxml-3.16</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>poi-ooxml-schemas-3.16</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>serializer-2.7.2</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>spring-beans-3.2.4.RELEASE</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>spring-core-3.2.4.RELEASE</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
       <artifactId>talend_file_enhanced_20070724</artifactId>
       <version>6.0.0</version>
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
       <artifactId>talendcsv</artifactId>
+      <version>6.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>xalan-2.7.2</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>xmlbeans-2.6.0</artifactId>
       <version>6.0.0</version>
     </dependency>
     <dependency>
