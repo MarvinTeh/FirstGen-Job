@@ -391,26 +391,6 @@
       <relatedItems xmi:id="_-HjbehhuEemRFqkXSnbCwg" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_t8oIABhyEemRFqkXSnbCwg" id="_5MVnMBSMEembU5w-Ii1U1g" version="Latest" type="context"/>
     </ItemsRelations>
-    <ItemsRelations xmi:id="_hEMgIBk6EemRFqkXSnbCwg">
-      <baseItem xmi:id="_hEMgIRk6EemRFqkXSnbCwg" id="_Es1pABk6EemRFqkXSnbCwg" version="0.1" type="job"/>
-      <relatedItems xmi:id="_hEMgIxk6EemRFqkXSnbCwg" id="SQLike" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgJBk6EemRFqkXSnbCwg" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgJRk6EemRFqkXSnbCwg" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgJhk6EemRFqkXSnbCwg" id="DataMasking" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgJxk6EemRFqkXSnbCwg" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgKBk6EemRFqkXSnbCwg" id="DqStringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgKRk6EemRFqkXSnbCwg" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgKhk6EemRFqkXSnbCwg" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgKxk6EemRFqkXSnbCwg" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgLBk6EemRFqkXSnbCwg" id="DataQuality" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgLRk6EemRFqkXSnbCwg" id="Mathematical" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgLhk6EemRFqkXSnbCwg" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgLxk6EemRFqkXSnbCwg" id="DQTechnical" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgMBk6EemRFqkXSnbCwg" id="DataQualityDependencies" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgMRk6EemRFqkXSnbCwg" id="MDM" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgMhk6EemRFqkXSnbCwg" id="TalendStringUtil" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_hEMgMxk6EemRFqkXSnbCwg" id="_xWSrEBk5EemRFqkXSnbCwg - customer_data" version="Latest" type="schema"/>
-    </ItemsRelations>
     <ItemsRelations xmi:id="_9myAwBlDEemRFqkXSnbCwg">
       <baseItem xmi:id="_9myAwRlDEemRFqkXSnbCwg" id="_0HbqEBlGEemYJ8GAt8VjBQ" version="0.1" type="job"/>
       <relatedItems xmi:id="_9myAwhlDEemRFqkXSnbCwg" id="SQLike" version="Latest" type="routine"/>
