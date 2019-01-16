@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2019-01-15T11:57:42.433+0000">
-  <deletedItems id="_S_BUUBVMEemUdYHXfCRkqw" path="FirstGen/rubbish" type="PROCESS"/>
-  <deletedItems id="_V6OhQBSIEembU5w-Ii1U1g" path="FirstGen/rubbish" type="PROCESS"/>
-  <deletedItems id="_Z_7YQBS9EemqC5ULK4uV2g" path="FirstGen/rubbish" type="PROCESS"/>
-  <deletedItems id="_EuQD0BSQEempc5ll7VSwIg" path="FirstGen/rubbish" type="PROCESS"/>
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2019-01-16T05:06:38.868+0000">
   <deletedItems id="_angGoBfTEemvecoQPcNBRw" path="FirstGen" type="PROCESS"/>
   <deletedItems id="__eixwBfREemvecoQPcNBRw" path="FirstGen" type="PROCESS"/>
   <deletedItems id="_TuZrYBfUEemvecoQPcNBRw" path="FirstGen" type="PROCESS"/>
