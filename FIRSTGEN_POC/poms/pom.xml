@@ -25,6 +25,7 @@
     <module>jobs/process/FirstGen/dev/pen_datadump_0.1</module>
     <module>jobs/process/FirstGen/dev/pen_datawrite_0.1</module>
     <module>jobs/process/FirstGen/dev/restapi_0.1</module>
+    <module>jobs/process/test_0.1</module>
   </modules>
   <properties>
     <talend.project.name>FIRSTGEN_POC</talend.project.name>
